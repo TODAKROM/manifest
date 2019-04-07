@@ -25,7 +25,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="frameworks/base" name="frameworks_base" remote="floko" />
+  <project path="frameworks/base" name="frameworks_base" remote="floko" revision="9.0_r35" />
   <project path="packages/apps/crDroidSettings" name="packages_apps_FlokoSettings" remote="floko" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="floko" />
   <project path="vendor/addons" name="vendor_addons" remote="floko" />

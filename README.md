@@ -13,7 +13,7 @@ Read:
 Initialize repo:
 
 ```sh
-repo init -u https://github.com/FlokoROM/manifesto.git -b 9.0
+repo init -u https://github.com/FlokoROM/manifesto.git -b 9.0_r35
 ```
 
 Sync(Download):
