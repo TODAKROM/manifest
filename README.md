@@ -1,4 +1,4 @@
-![FlokoROM](https://lindwurm.neocities.org/img/floko/floko_logo_sh_mini.png)
+![TodakROM](https://todak.com/store/wp-content/uploads/2018/12/todak_logo_black.png)
 
 ## Basic
 
@@ -13,7 +13,7 @@ Read:
 Initialize repo:
 
 ```sh
-repo init -u https://github.com/FlokoROM/manifesto.git -b 9.0
+repo init -u https://github.com/TodakROM/manifesto.git -b 9.0
 ```
 
 Sync(Download):
@@ -33,6 +33,6 @@ export ALLOW_MISSING_DEPENDENCIES=true
 ```
 
 ```sh
-brunch <device> 2>&1 | tee ~/log/floko_$(date '+%Y%m%d_%H-%M-%S').log
+brunch <device> 2>&1 | tee ~/log/todak_$(date '+%Y%m%d_%H-%M-%S').log
 ```
 
