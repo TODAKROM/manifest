@@ -46,6 +46,7 @@
   <project path="system/sepolicy" name="system_sepolicy" remote="todak" />
   <project path="vendor/addons" name="vendor_addons" remote="todak" />
   <project path="vendor/lineage" name="vendor_todak" remote="todak" />
-
+  <project path="system/core" name="android_system_core" remote="todak" />
+  
   <project path="packages/apps/OmniSwitch" name="omnirom/android_packages_apps_OmniSwitch" remote="github" revision="android-9.0" />
 </manifest>
