@@ -36,7 +36,6 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="frameworks/base" name="frameworks_base" remote="todak" />
   <project path="frameworks/native" name="frameworks_native" remote="todak" />
   <project path="lineage-sdk" name="lineage-sdk" remote="todak" />
   <project path="packages/apps/crDroidSettings" name="packages_apps_FlokoSettings" remote="todak" />
@@ -48,5 +47,6 @@
   <project path="vendor/lineage" name="vendor_todak" remote="todak" />
   <project path="system/core" name="android_system_core" remote="todak" />
   
+  <project path="frameworks/base" name="DescendantDeviceSpecific/frameworks_base" remote="github" revision="TwoDotThree" /> 
   <project path="packages/apps/OmniSwitch" name="omnirom/android_packages_apps_OmniSwitch" remote="github" revision="android-9.0" />
 </manifest>
