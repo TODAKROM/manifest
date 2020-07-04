@@ -49,5 +49,6 @@
   <project path="system/core" name="android_system_core" remote="todak" />
   <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="todak" />
   <project path="packages/apps/crDroidFonts" name="android_packages_apps_crDroidFonts" remote="todak" />
+  <project path="frameworks/support/lottie" name="android_frameworks_support_lottie" remote="todak" />
 
 </manifest>
